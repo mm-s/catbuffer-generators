@@ -46,7 +46,7 @@ git clone https://github.com/nemtech/catbuffer-generators
 
 ```bash
 cd catbuffer-generators
-git clone --depth 1 --branch v1.0.1 https://github.com/nemtech/catbuffer-schemas.git 
+git clone --depth 1 https://github.com/nemtech/catbuffer-schemas.git 
 ```
 
 3. Install the package requirements:
